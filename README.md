@@ -1,2 +1,2 @@
 # vinbot
-vin de notre region
+vins de notre region
